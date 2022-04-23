@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe project for The Odin Project
+Some easy recipes that you can try out at home!
